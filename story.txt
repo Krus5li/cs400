@@ -1,11 +1,16 @@
-Once upon a semester there were a group of 8 students paired together in a CS400 group project. 
-They were strangers to each other, yet they all shared a common purpose and task: to get an A in CS400, and so began their long journey. 
-The first task that they encountered was nonetheless but the first group project. 
-It involved the team in implementing a hashTable to create a project that would have practical value in the real world. 
+Once upon a semester there were a group of 8 students paired together in a CS400 group project.
+They were strangers to each other, yet they all shared a common purpose and task: to get an A in CS400, and so began their long journey.
+The first task that they encountered was nonetheless but the first group project.
+It involved the team in implementing a hashTable to create a project that would have practical value in the real world.
 The group was hopeful and excited but unfortunately, one of the members never arrived and so only the seven of the eight were left to finish what had been started.
 
-So be it. The remaining 7 members tried to complete the quest that was given to them by the king of the Land of Emacs, King Gary the Adventurer. 
+So be it. The remaining 7 members tried to complete the quest that was given to them by the king of the Land of Emacs, King Gary the Adventurer.
 Speaking of King Gary the Adventurer, he went off to several places around the Land of Emacs. The 7 members, who call themselves HB, were found by
-King Gary The Adventurer when he was fishing in the magical lake near his palace. The 7 members were drowning because the magical lake only obeys 
+King Gary The Adventurer when he was fishing in the magical lake near his palace. The 7 members were drowning because the magical lake only obeys
 King Gary the Adventurer and drowns whomever fishing there without the King's permission. The King then brought the 7 members under a tree; a magical red tree.
 The magical red tree was so balanced that all HB members were facinated with its balance. That was the background story of King Gary the Adventurer.
+
+After being saved by King Gary the Adventurer, the adventurers were very greatful and offered to give him the treasure they would get at the end of
+the journey. But, to the adventurers surprise, he was to one who had the A that they were searching for! Though in exchange he needed the group to finish
+an array of challenges, and finding him was only challenge number zero. They would have to finish many more challenges together to get the A from him,
+and he would help them when they asked. Though they completed the first challenge, they got ready for many more to come.
